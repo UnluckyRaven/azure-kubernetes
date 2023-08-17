@@ -8,7 +8,8 @@ Dentro de la carpeta de **azure** se encuentran scripts para automatizar tareas 
 * [Kubernetes](https://github.com/UnluckyRaven/azure-kubernetes/blob/main/kubernetes)
 
 ## Azure
-* [minimice_cosmosdb_troughput.sh](https://github.com/UnluckyRaven/azure-kubernetes/blob/main/azure/minimice_cosmosdb_troughput.sh)
+* [minimice_cosmosdb_troughput.sh]([https://github.com/UnluckyRaven/azure-kubernetes/blob/main/azure/minimice_cosmosdb_troughput.sh](https://github.com/UnluckyRaven/azure-kubernetes/blob/main/azure/minimice_cosmosdb_troughput.sh))
 
 ## Kubernetes
-* [delete_pods_evicted.sh](https://github.com/UnluckyRaven/azure-kubernetes/blob/main/kubernetes/delete_pods_evicted.sh)
+* [delete_pods_evicted.sh]([https://github.com/UnluckyRaven/azure-kubernetes/blob/main/kubernetes/delete_pods_evicted.sh](https://github.com/UnluckyRaven/azure-kubernetes/blob/main/azure/minimice_cosmosdb_troughput.sh)https://github.com/UnluckyRaven/azure-kubernetes/blob/main/azure/delete_pods_evicted.sh)
+* [modify_HPA.sh]([https://github.com/UnluckyRaven/azure-kubernetes/blob/main/kubernetes/delete_pods_evicted.sh](https://github.com/UnluckyRaven/azure-kubernetes/blob/main/azure/minimice_cosmosdb_troughput.sh)https://github.com/UnluckyRaven/azure-kubernetes/blob/main/azure/modify_HPA.sh)
