@@ -12,8 +12,7 @@ FILE_PATH="/root/cosmos_data"       # ruta para guardar los logs
 OUTPUT_OK=""                        # variable donde se guardan las cosmos que no se han modificado
 OUTPUT_MODIFIED=""                  # variable donde se guardan las cosmos que si se han modificado
 OUTPUT_BAD=""                       # variable donde se guardan los errores encontrados
-WEBHOOK="https://everisgroup.webhook.office.com/webhookb2/7d3d479a-d119-476a-b4b7-36979e25db41@3048dc87-43f0-4100-9acb-ae1971c79395/IncomingWebhook/8bea29b52d56479c8c27adc2f95cf2a5/5d4966a5-15a3-4f89-8bea-99bd0ea5e895"
-
+WEBHOOK=""
 help_panel() {
     # Panel de ayuda
         echo -e "\n[*] Uso: $0 {Cosmos_Account} {Resource_Group} {ID_Subscripcion}"
